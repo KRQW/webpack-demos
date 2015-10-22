@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YanYang",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0"
+  }
 }
